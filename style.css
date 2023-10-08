@@ -7,7 +7,7 @@ body
     text-align: center;
     margin: auto;/*设置居中*/
     margin-top: 50x;
-    background-color: rgb(107, 172, 207);
+    background-color: rgb(193, 233, 70);
 }
 h3
 {
@@ -22,6 +22,7 @@ h3
     width: 350px;
     height: 40px;
     font-size: 20px;
+    background-image: url("https://img.tukuppt.com/ad_preview/00/14/68/5e5b854b533c7.jpg!/fw/980") ;
 }
 #cuttom input
 {
@@ -32,8 +33,20 @@ h3
     margin-right: 5px;
     font-size: 30px;
     font-weight: bolder;
+    background-image: url("https://img.ixintu.com/download/jpg/202004/fc06c3bc2f130cc3f29fd991473bc503_800_1199.jpg!con0") ;
     font-family: "楷书";
-
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 3px 2px 1px #9daef5;
+    -webkit-box-shadow: 6px 5px 24px #666666;
+    -moz-box-shadow: 6px 5px 24px #666666;
+    box-shadow: 6px 5px 24px #666666;
+    font-family: Arial;
+    color: #fafafa;
+    font-size: 27px;
+    padding: 19px;
+    text-decoration: none;
 }
 #cuttom input:hover{
     background: lightgray;
